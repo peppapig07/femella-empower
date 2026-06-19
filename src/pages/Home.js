@@ -61,8 +61,8 @@ function Home() {
           </div>
 
           <div className="service-card">
-            <h3>📚 Resources</h3>
-            <p>Access learning materials and career guidance.</p>
+            <h3>🤝 Resources</h3>
+            <p>Safety and Support Hub</p>
           </div>
 
           <div className="service-card">
